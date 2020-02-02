@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Dec  5 04:10:26 2019
-
-@author: thetr
-"""
 import pyodbc
 import pandas 
 import codecs
